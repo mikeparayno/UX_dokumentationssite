@@ -1,0 +1,122 @@
+body {
+    font-family: "HelveticaNeue-Light", sans-serif;
+    margin: 0 auto;
+    padding: 3vw;
+    background-color: whitesmoke;
+}
+
+div {
+    width: 65vw;
+}
+
+a {
+    color: black;
+    font-size: 2em;
+}
+
+.blue {
+    color: cadetblue;
+}
+
+
+.gray {
+    color: gray;
+}
+
+.b1 {
+    font-size: 1.2em;
+    color: white;
+}
+
+b {
+    font-size: 1.2em;
+    color: cadetblue;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 2px 0;
+    color: black;
+}
+
+li {
+    font-size: 1.2em;
+    margin: 2px 0;
+    color: black;
+}
+
+h1 {
+    font-size: 5em;
+    margin: 0;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    border-bottom: solid 2px black;
+    font-size: 3em;
+}
+
+h3 {
+    font-family: "HelveticaNeue-Light", sans-serif;
+    font-size: 2em;
+    margin: 5px 0;
+}
+
+/*-------- MENU ---------*/
+
+
+
+header {
+    position: fixed;
+    width: 25vw;
+    right: 5vw;
+}
+
+header p {
+
+    font-family: "Times New Roman", serif;
+    text-align: right;
+    font-size: 5em;
+
+}
+
+header nav {
+    font-family: "HelveticaNeue-Light", sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+    width: 25vw;
+}
+
+header nav a {
+    text-decoration: none;
+    display: block;
+}
+
+header nav a:hover {
+    color: cadetblue;
+    /*en anden farve når musen går henover*/
+}
+
+/*-------- FOOTER --------*/
+
+footer {
+    color: cadetblue;
+    padding: 50px 0;
+}
+
+/*-------- GRUPPEMEDLEMMER --------*/
+
+#gruppemedlemmer {
+
+}
+
+.strong {
+    text-transform: uppercase;
+}
+
+
+/*-------- GRUPPEKONTRAKT --------*/
+
+/*-------- TRELLO --------*/
+
+/*-------- VIDEO --------*/

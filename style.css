@@ -119,7 +119,7 @@ footer {
 
 /*-------- VIDEO --------*/
 
-#video .column_first {
+#scrumvideoer .column_first {
     flex-grow: 1;
     flex-basis: 100vw;
 }

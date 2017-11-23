@@ -146,9 +146,24 @@ footer {
     width: 65vw;
 }
 
+/*-------- PAIN POINTS ---------*/
+
+/*-------- STORYBOARD ---------*/
+
+#storyboard img {
+    width: 65vw;
+}
+
 /*-------- BENCHMARKING --------*/
 
 #benchmarking img {
     width: 65vw;
 
 }
+
+/*-------- FINAL STORYBOARDS --------*/
+
+#final_storyboards img {
+    width: 65vw;
+}
+

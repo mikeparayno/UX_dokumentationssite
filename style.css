@@ -155,6 +155,13 @@ footer {
     width: 65vw;
 }
 
+/*-------- PROTOTYPE --------*/
+
+#prototype img {
+    width: 10vw;
+
+}
+
 /*-------- BENCHMARKING --------*/
 
 #benchmarking img {
@@ -167,4 +174,3 @@ footer {
 #final_storyboards img {
     width: 65vw;
 }
-

@@ -117,6 +117,12 @@ footer {
 
 /*-------- TRELLO --------*/
 
+/*-------- BURNDOWN CHART ---------*/
+
+#burndown_chart img {
+    width: 65vw;
+}
+
 /*-------- SCRUMVIDEO --------*/
 
 #scrumvideoer .column_first {
